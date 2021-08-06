@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDU2TC3QOWXWWJG3FTKJC3PUBCBKKHHJBZRNW5TZYNRIUDLAGNBUPJSS"
+"GC6ML6HYA5WXDZL6C7T2K5HM5FUL2BRECXPAEHWDVMRYHFKKI56CBXAP"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="starbucksxlm"
-ORG_URL="https://www.starbucksxlm.org"
-ORG_DESCRIPTION="Starbucks XLM is representing an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. As the world's largest coffeehouse chain, Starbucks XLM is seen to be the main representation of the United States' second wave of coffee culture."
-ORG_TWITTER="@starbucksxlm"
-ORG_LOGO="https://i.ibb.co/L5GmLrW/STARBUCKSXLM.png"
-ORG_OFFICIAL_EMAIL="starbucksxlm@gmail.com"
+ORG_NAME="tokyotoken"
+ORG_URL="https://www.tokyotoken.org"
+ORG_DESCRIPTION="Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples."
+ORG_TWITTER="@tokyotoken"
+ORG_LOGO="https://i.ibb.co/8DCD5D9/tokyotoken.jpg"
+ORG_OFFICIAL_EMAIL="tokyotoken@gmail.com"
 
 
 [[CURRENCIES]]
-code="StarbucksXLM"
-issuer="GDU2TC3QOWXWWJG3FTKJC3PUBCBKKHHJBZRNW5TZYNRIUDLAGNBUPJSS"
+code="TokyoToken"
+issuer="GC6ML6HYA5WXDZL6C7T2K5HM5FUL2BRECXPAEHWDVMRYHFKKI56CBXAP"
 anchor_asset="false"
-name="Starbucks XLM"
-desc="Starbucks XLM is representing an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. As the world's largest coffeehouse chain, Starbucks XLM is seen to be the main representation of the United States' second wave of coffee culture."
+name="Tokyo Token"
+desc="Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples."
 conditions=""
-image="https://i.ibb.co/L5GmLrW/STARBUCKSXLM.png"
+image="https://i.ibb.co/8DCD5D9/tokyotoken.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#StarbucksXLM was issued using the open and inclusive Stellar blockchain network.
+#TokyoToken was issued using the open and inclusive Stellar blockchain network.
