@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC6ML6HYA5WXDZL6C7T2K5HM5FUL2BRECXPAEHWDVMRYHFKKI56CBXAP"
+"GDUTF7GOMDU6OLGRNNDHVNDSTCBMN5ORXQGGRN2OEBX32GY363N7QWWQ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="tokyotoken"
-ORG_URL="https://www.tokyotoken.org"
-ORG_DESCRIPTION="Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples."
-ORG_TWITTER="@tokyotoken"
-ORG_LOGO="https://i.ibb.co/8DCD5D9/tokyotoken.jpg"
-ORG_OFFICIAL_EMAIL="tokyotoken@gmail.com"
+ORG_NAME="lacoin"
+ORG_URL="https://www.lacoin.org"
+ORG_DESCRIPTION="City of Los Angeles and often abbreviated as L.A., is the largest city in California."
+ORG_TWITTER="@lacoin"
+ORG_LOGO="https://i.ibb.co/WkzzG22/lacoin.jpg"
+ORG_OFFICIAL_EMAIL="lacoin@gmail.com"
 
 
 [[CURRENCIES]]
-code="TokyoToken"
-issuer="GC6ML6HYA5WXDZL6C7T2K5HM5FUL2BRECXPAEHWDVMRYHFKKI56CBXAP"
+code="LAcoin"
+issuer="GDUTF7GOMDU6OLGRNNDHVNDSTCBMN5ORXQGGRN2OEBX32GY363N7QWWQ"
 anchor_asset="false"
-name="Tokyo Token"
-desc="Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples."
+name="Los Angeles coin"
+desc="City of Los Angeles and often abbreviated as L.A., is the largest city in California."
 conditions=""
-image="https://i.ibb.co/8DCD5D9/tokyotoken.jpg"
+image="https://i.ibb.co/WkzzG22/lacoin.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#TokyoToken was issued using the open and inclusive Stellar blockchain network.
+#LAcoin was issued using the open and inclusive Stellar blockchain network.
