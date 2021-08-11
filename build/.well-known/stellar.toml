@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDUTF7GOMDU6OLGRNNDHVNDSTCBMN5ORXQGGRN2OEBX32GY363N7QWWQ"
+"GAYZY4MFXNVKE6573SPKFMQCS43RIV6EHK6PVG4W7N5UGSVV76PY4JCW"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="lacoin"
-ORG_URL="https://www.lacoin.org"
-ORG_DESCRIPTION="City of Los Angeles and often abbreviated as L.A., is the largest city in California."
-ORG_TWITTER="@lacoin"
-ORG_LOGO="https://i.ibb.co/WkzzG22/lacoin.jpg"
-ORG_OFFICIAL_EMAIL="lacoin@gmail.com"
+ORG_NAME="PornXLM"
+ORG_URL="https://www.pornxlm.org"
+ORG_DESCRIPTION="Pornography, explicit depiction of sexual subject matter with principal intention of sexually exciting a viewer."
+ORG_TWITTER="@pornxlm"
+ORG_LOGO="https://i.ibb.co/1XG0yLN/pxlm.jpg"
+ORG_OFFICIAL_EMAIL="pornxlm@gmail.com"
 
 
 [[CURRENCIES]]
-code="LAcoin"
-issuer="GDUTF7GOMDU6OLGRNNDHVNDSTCBMN5ORXQGGRN2OEBX32GY363N7QWWQ"
+code="PornXLM"
+issuer="GAYZY4MFXNVKE6573SPKFMQCS43RIV6EHK6PVG4W7N5UGSVV76PY4JCW"
 anchor_asset="false"
-name="Los Angeles coin"
-desc="City of Los Angeles and often abbreviated as L.A., is the largest city in California."
+name="Porn XLM"
+desc="Pornography, explicit depiction of sexual subject matter with principal intention of sexually exciting a viewer."
 conditions=""
-image="https://i.ibb.co/WkzzG22/lacoin.jpg"
+image="https://i.ibb.co/1XG0yLN/pxlm.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LAcoin was issued using the open and inclusive Stellar blockchain network.
+#PornXLM was issued using the open and inclusive Stellar blockchain network.
